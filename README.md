@@ -4,7 +4,7 @@ This is a side project showcasing a landing page for a graphic design company. T
 
 ## Demo
 
-You can check out the live demo of the project [here](https://example.com).
+You can check out the live demo of the project [here](https://sunnydayscolors.netlify.app/).
 
 ## Features
 
